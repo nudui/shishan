@@ -20,7 +20,7 @@ ribbon:
   ConnectTimeout: 1000
   ReadTimeout: 1000
   OkToRetryOnAllOperations: true
-  MaxAutoRetries: 1
+  MaxAutoRetries: 1A
   MaxAutoRetriesNextServer: 1
     
 feign:
