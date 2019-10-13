@@ -2,53 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c33ff6b6-f4d4-425c-aab3-055ca5563ae8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/004/wms-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/004/wms-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/credit-api/target/classes/com/zhss/credit/api/CreditApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/credit-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/credit-service/target/classes/com/zhss/credit/service/CreditService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/credit-service/target/classes/com/zhss/credit/service/CreditServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/eureka-server/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/eureka-server/target/classes/com/zhss/eureka/EurekaServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/inventory-api/target/classes/com/zhss/inventory/api/InventoryApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/inventory-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/inventory-service/target/classes/com/zhss/inventory/service/InventoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/inventory-service/target/classes/com/zhss/inventory/service/InventoryServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/order-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/order-service/target/classes/com/zhss/order/service/CreditService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/order-service/target/classes/com/zhss/order/service/InventoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/order-service/target/classes/com/zhss/order/service/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/order-service/target/classes/com/zhss/order/service/OrderServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/order-service/target/classes/com/zhss/order/service/WmsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/wms-api/target/classes/com/zhss/wms_api/WmsApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/wms-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/wms-service/target/classes/com/zhss/wms/service/WmsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/wms-service/target/classes/com/zhss/wms/service/WmsServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/zuul-gateway/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/ZuulGatewayApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/zuul-gateway/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/DynamicRouteConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/DynamicRouteLocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/GatewayApiRoute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/RefreshRouteTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/ZuulGatewayApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/credit-api/target/classes/com/zhss/credit/api/CreditApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/credit-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/credit-service/target/classes/com/zhss/credit/service/CreditService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/credit-service/target/classes/com/zhss/credit/service/CreditServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/eureka-server/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/eureka-server/target/classes/com/zhss/eureka/EurekaServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/inventory-api/target/classes/com/zhss/inventory/api/InventoryApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/inventory-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/inventory-service/target/classes/com/zhss/inventory/service/InventoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/inventory-service/target/classes/com/zhss/inventory/service/InventoryServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/order-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/order-service/target/classes/com/zhss/order/service/CreditService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/order-service/target/classes/com/zhss/order/service/InventoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/order-service/target/classes/com/zhss/order/service/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/order-service/target/classes/com/zhss/order/service/OrderServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/order-service/target/classes/com/zhss/order/service/WmsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/wms-api/target/classes/com/zhss/wms_api/WmsApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/wms-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/wms-service/target/classes/com/zhss/wms/service/WmsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/wms-service/target/classes/com/zhss/wms/service/WmsServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/zuul-gateway/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/DynamicRouteConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/DynamicRouteLocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/GatewayApiRoute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/GrayReleaseConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/GrayReleaseConfigManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/GrayReleaseFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/RefreshRouteTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/zuul-gateway/target/classes/com/zhss/demo/zuul/gateway/ZuulGatewayApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/Application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/com/roncoo/eshop/inventory/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/com/roncoo/eshop/inventory/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/com/roncoo/eshop/inventory/dao/RedisDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/com/roncoo/eshop/inventory/dao/impl/RedisDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/com/roncoo/eshop/inventory/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/com/roncoo/eshop/inventory/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/com/roncoo/eshop/inventory/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/com/roncoo/eshop/inventory/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/mybatis/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop-inventory/target/classes/templates/hello.html" beforeDir="false" />
     </list>
-    <list id="ae2cf552-a2e5-4028-ae07-a5267c6c0a30" name="no commit" comment="">
-      <change afterPath="$PROJECT_DIR$/001/.idea/001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/credit-api/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/credit-api/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/credit-service/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/credit-service/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/eureka-server/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/eureka-server/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/inventory-api/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/inventory-api/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/inventory-service/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/inventory-service/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/order-service/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/order-service/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/wms-api/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/wms-api/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/wms-service/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/wms-service/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/zuul-gateway/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001/zuul-gateway/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/.idea/002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/zuul-gateway/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/002/zuul-gateway/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/.idea/004.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/credit-api/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/credit-api/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/credit-service/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/credit-service/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/eureka-server/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/eureka-server/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/inventory-api/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/inventory-api/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/inventory-service/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/inventory-service/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/order-service/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/order-service/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/wms-api/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/wms-api/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/wms-service/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/wms-service/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/zuul-gateway/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/004/zuul-gateway/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop-inventory/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop-inventory/.project" afterDir="false" />
-    </list>
+    <list id="ae2cf552-a2e5-4028-ae07-a5267c6c0a30" name="no commit" comment="" />
     <ignored path="$PROJECT_DIR$/eshop-inventory/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,8 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eshop-inventory/src/main/java/com/roncoo/eshop/inventory/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+            <state relative-caret-position="532">
+              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -111,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/004/wms-service/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -138,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/eshop-inventory/src/main/resources/Application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="56">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="36" />
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -206,35 +230,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="shishan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shishan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shishan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shishan" type="462c0819:PsiDirectoryNode" />
-              <item name="002" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shishan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shishan" type="462c0819:PsiDirectoryNode" />
-              <item name="eshop-inventory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shishan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shishan" type="462c0819:PsiDirectoryNode" />
-              <item name="eshop-inventory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shishan——1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shishan——1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,7 +257,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -297,6 +305,7 @@
       <workItem from="1570627756837" duration="2134000" />
       <workItem from="1570630307554" duration="4298000" />
       <workItem from="1570976159053" duration="3749000" />
+      <workItem from="1570980764090" duration="429000" />
     </task>
     <task id="LOCAL-00001" summary="dfd">
       <created>1570979665386</created>
@@ -309,13 +318,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10181000" />
+    <option name="totallyTimeSpent" value="10610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14588688" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14781491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -333,10 +341,10 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50064266" side_tool="true" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" sideWeight="0.4993573" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Database Console" order="14" weight="0.32884097" />
       <window_info anchor="bottom" id="Messages" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -415,31 +423,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eshop-inventory/src/main/resources/mybatis/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eshop-inventory/src/main/java/com/roncoo/eshop/inventory/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/repo/org/apache/tomcat/tomcat-jdbc/8.0.23/tomcat-jdbc-8.0.23.jar!/org/apache/tomcat/jdbc/pool/DataSource.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eshop-inventory/src/main/resources/Application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -539,20 +526,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/001/.idea/001.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/eshop-inventory/src/main/java/com/roncoo/eshop/inventory/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        <state relative-caret-position="532">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001/.idea/001.iml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/eshop-inventory/src/main/resources/mybatis/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-inventory/src/main/java/com/roncoo/eshop/inventory/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eshop-inventory/src/main/resources/Application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/004/wms-service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>
