@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eshop-inventory/eshop-inventory.iml" filepath="$PROJECT_DIR$/eshop-inventory/eshop-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shishan.iml" filepath="$PROJECT_DIR$/.idea/shishan.iml" />
+    </modules>
+  </component>
+</project>
